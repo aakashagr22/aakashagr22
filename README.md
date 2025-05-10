@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AAKASH AGRAHARI
+- 👋 Hi, I’m AKASH KUMAR
 - 👀 I’m FULL STACK ENGINNER and I have made few projects & still working on another project based on MERN
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me https://www.linkedin.com/in/akash-agrahari-5715a0218
