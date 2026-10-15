@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;AI+Application+Developer;Generative+AI+Enthusiast" alt="Typing animation: Java Backend Developer, Spring Boot Developer, Full Stack Developer, AI Application Developer, Generative AI Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;AI+Application+Developer;Generative+AI+Enthusiast" alt="Typing animation: Java Backend Developer, Software Developer, Spring Boot Developer, Full Stack Developer, AI Application Developer, Generative AI Enthusiast" />
   </a>
 </p>
 
