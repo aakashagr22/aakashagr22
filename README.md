@@ -1,7 +1,12 @@
 <!-- Profile README for https://github.com/aakashagr22 -->
 
 <h1 align="center">Hi, I'm Akash Kumar 👋</h1>
-<h3 align="center">Java Backend Developer · Spring Boot · Microservices · AI Applications</h3>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=55&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;AI+Application+Developer;Generative+AI+Enthusiast" alt="Typing animation: Java Backend Developer, Spring Boot Developer, Full Stack Developer, AI Application Developer, Generative AI Enthusiast" />
+  </a>
+</p>
 
 <p align="center">
   I build backend applications and explore practical ways to integrate AI into software.
