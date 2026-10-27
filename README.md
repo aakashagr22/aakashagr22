@@ -100,8 +100,8 @@ A rental platform with property listings, reviews, user management, secure authe
 
 **Stack:** Java · Spring Boot · MongoDB · REST APIs · JWT · Cloudinary · Google Maps API
 
-### 5. [Spring Boot Microservices Banking Application](https://github.com/aakashagr22/Spring-Boot-Microservices-Banking-Application)
-A distributed banking backend with independent account, transaction, and fund-transfer services.
+### 5. [Microservices Practise](https://github.com/aakashagr22)
+A distributed banking backend.
 
 - Service discovery and centralized API routing
 - Resilient inter-service communication
