@@ -70,14 +70,11 @@
 
 ## 🚀 Featured Projects
 
-### 1. [Spring Boot Microservices Banking Application](https://github.com/aakashagr22/Spring-Boot-Microservices-Banking-Application)
-A banking backend organized into services for users, accounts, fund transfers, and transactions.
+### 4. [AI Document Summarizer](https://github.com/aakashagr22/Ai_Summarizer)
+A Spring AI learning project focused on summarizing uploaded documents through a backend endpoint.
 
-- Service discovery and centralized API routing
-- Spring Boot, Spring Cloud, Spring Data JPA, and Spring Security
-- Database-per-service approach using MySQL
+**Stack:** Java · Spring Boot · Spring AI
 
-**Stack:** Java · Spring Boot · Spring Cloud · MySQL · Maven
 
 ### 2. [CogniTrace AI — Enterprise Research Agent](https://github.com/aakashagr22/AI_RESEARCH_AGENT)
 An AI research agent designed to retrieve source material, surface conflicting claims, and connect conclusions to supporting evidence.
@@ -96,11 +93,6 @@ An application concept for evaluating group-project contributions using reposito
 - Separate frontend and backend architecture
 
 **Stack:** Next.js · FastAPI · PostgreSQL · Gemini AI · Docker
-
-### 4. [AI Document Summarizer](https://github.com/aakashagr22/Ai_Summarizer)
-A Spring AI learning project focused on summarizing uploaded documents through a backend endpoint.
-
-**Stack:** Java · Spring Boot · Spring AI
 
 ---
 
