@@ -70,23 +70,56 @@
 
 ## 🚀 Featured Projects
 
-### 4. [AI Document Summarizer](https://github.com/aakashagr22/Ai_Summarizer)
-A Spring AI learning project focused on summarizing uploaded documents through a backend endpoint.
+### 1. [DocIntellect — AI Document Intelligence & Career Assistant](https://github.com/aakashagr22/Ai_Summarizer)
+AI-powered document and resume assistant for multi-format document summarization, resume auditing, interview preparation, ATS keyword matching, and document Q&A.
 
-**Stack:** Java · Spring Boot · Spring AI
+- Built with Spring Boot and Spring AI, with Apache Tika for document parsing
+- Resume analysis and section-level summarization
+- **Note:** RAG, MCP, OAuth, and other capabilities should be described as implemented only if they are present in the current repository.
 
+**Stack:** Java · Spring Boot · Spring AI · Apache Tika
 
-### 2. [CogniTrace AI — Enterprise Research Agent](https://github.com/aakashagr22/AI_RESEARCH_AGENT)
+### 2. [CareerForge — Smart Placement Preparation Platform](https://github.com/aakashagr22/careerforge-repo)
+A placement-preparation platform designed to help students with DSA practice, career roadmaps, study resources, and progress tracking.
+
+- Secure authentication and backend APIs
+- Real-time group communication using WebSockets/STOMP
+- Database migrations and containerized services
+
+**Stack:** Java 21 · Spring Boot · PostgreSQL · Docker · React · JWT · WebSocket
+
+### 3. [Java Backend Intern Assignment](https://github.com/aakashagr22/Java_Backend_Intern_Assignment)
+A Java backend assignment repository demonstrating backend development and implementation work.
+
+**Stack:** Java · Spring Boot (verify against repository contents)
+
+### 4. StayFinder — Location-Based Rental Platform
+A rental platform with property listings, reviews, user management, secure authentication, and location-based discovery.
+
+**GitHub:** Link to be added.
+
+**Stack:** Java · Spring Boot · MongoDB · REST APIs · JWT · Cloudinary · Google Maps API
+
+### 5. [Spring Boot Microservices Banking Application](https://github.com/aakashagr22/Spring-Boot-Microservices-Banking-Application)
+A distributed banking backend with independent account, transaction, and fund-transfer services.
+
+- Service discovery and centralized API routing
+- Resilient inter-service communication
+- REST APIs built with Spring Boot and Spring Cloud
+
+**Stack:** Java · Spring Boot · Spring Cloud · MySQL · Maven
+
+### 6. [CogniTrace AI — Enterprise Research Agent](https://github.com/aakashagr22/AI_RESEARCH_AGENT)
 An AI research agent designed to retrieve source material, surface conflicting claims, and connect conclusions to supporting evidence.
 
-- Question decomposition and multi-source research
-- Semantic retrieval with embeddings and PostgreSQL/pgvector
-- Cross-source contradiction detection and evidence traceability
+- Multi-source research and question decomposition
+- Semantic retrieval with PostgreSQL/pgvector
+- Contradiction detection and evidence traceability
 
-**Stack:** Java 21 · Spring Boot · React · PostgreSQL · pgvector · Docker
+**Stack:** Java · Spring Boot · PostgreSQL · pgvector · Docker
 
-### 3. [EquiGrade — AI Contribution Evaluator](https://github.com/aakashagr22/EquiGrade)
-An application concept for evaluating group-project contributions using repository activity and AI-assisted analysis.
+### 7. [EquiGrade — AI Contribution Evaluator](https://github.com/aakashagr22/EquiGrade)
+An application for evaluating group-project contributions using repository activity and AI-assisted analysis.
 
 - GitHub and Google Workspace integrations
 - Contribution scoring based on quality, quantity, and consistency
